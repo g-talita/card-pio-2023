@@ -1,0 +1,583 @@
+/*coluna 1*/
+
+.Kanashiro{
+    border-radius: 10px;
+    background-color: rgb(255, 78, 181);
+    text-align: center;
+    padding: 0px;
+    margin-top: 8vw;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    
+}
+
+.Kanashiro > h3{
+    color: white;
+}
+
+.Kanashiro > h1{
+    color: yellow;
+    font-style: arial;
+}
+
+.cardapio{
+    background-image: url(papel.jpg);
+    text-align: center;
+    margin-left: 8vh;
+    margin-right: 8vh;
+    border: 20px;
+}
+
+.cardapio > h1{
+    text-shadow: 1px 2px 0px rgb(37, 37, 37);
+    color: rgb(247, 247, 247);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+
+}
+.col1{
+    display: flex;
+}
+
+.BonApetite{
+    border-radius: 10px;
+    background-color: rgb(236, 139, 109);
+    text-align: center;
+    padding: 0px;
+    margin-top: 8vw;
+    margin-left: 16vh;
+    margin-right: 8vh;
+}
+
+.BonApetite > h3{
+    color: white;
+}
+
+.BonApetite > h1{
+    color: yellow;
+    font-style: arial;
+}
+
+.borda{
+    background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+}
+
+/*endereco 1*/
+.end1{
+    display: flex;
+    margin-top: 0px;
+}
+
+.e1{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.e2{
+    margin-top: 0px;
+    margin-left: 18.4vh;
+    margin-right: 9.6vh;
+    margin-bottom: 0px;
+}
+
+.e1 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e2 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+/*coluna 2*/
+.col2{
+    display: flex;
+}
+
+.Cactus{
+    border-radius: 10px;
+    background-color: rgb(245, 241, 30);
+    text-align: center;
+    padding: 0px;
+    margin-top: 1vw;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    width: 300px;
+}
+
+.Cactus > h3{
+    color: white;
+}
+
+.Cactus > h1{
+    color: rgb(255, 251, 251);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+
+.WM{
+    border-radius: 10px;
+    background-color: rgb(30, 166, 245);
+    text-align: center;
+    padding: 0px;
+    margin-left: 16vh;
+    margin-right: 8vh;
+    width: 300px;
+}
+
+.WM > h3{
+    color: white;
+}
+
+.WM > h1{
+    color: rgb(255, 252, 90);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+/*endereco 2*/
+
+.end2{
+    display: flex;
+}
+
+.e3{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.e4{
+    margin-top: 0px;
+    margin-left: 18.4vh;
+    margin-right: 9.6vh;
+    margin-bottom: 0px;
+}
+
+.e3 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e4 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+/*coluna 3*/
+.col3{
+    display: flex;
+}
+
+.Tia_Jo{
+    border-radius: 10px;
+    background-color: rgb(67, 158, 6);
+    text-align: center;
+    padding: 0px;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    width: 290px;
+}
+
+.Tia_Jo > h3{
+    color: white;
+}
+
+.Tia_Jo > h1{
+    color: rgb(245, 242, 76);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+
+.Vovo_Mafalda{
+    border-radius: 10px;
+    background-color: rgb(255, 78, 181);
+    text-align: center;
+    padding: 0px;
+    margin-left: 16vh;
+    margin-right: 8vh;
+    width: 300px;
+    
+}
+
+.Vovo_Mafalda > h3{
+    color: white;
+}
+
+.Vovo_Mafalda > h2{
+    color: rgb(255, 252, 90);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+   
+    text-align: center;
+    
+}
+
+/*endereco 3*/
+
+.end3{
+    display: flex;
+}
+
+.e5{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.e6{
+    margin-top: 0px;
+    margin-left: 18.4vh;
+    margin-right: 9.6vh;
+    margin-bottom: 0px;
+}
+
+.e5 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e6 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+/*coluna 4*/
+.col4{
+    display: flex;
+}
+.Sunshine{
+    border-radius: 10px;
+    background-color: rgb(184, 102, 35);
+    text-align: center;
+    padding: 0px;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    width: 290px;
+}
+
+.Sunshine > h3{
+    color: white;
+}
+
+.Sunshine > h1{
+    color: rgb(245, 242, 76);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+
+.Tempero_Maneiro{
+    border-radius: 10px;
+    background-color: rgb(67, 158, 6);
+    text-align: center;
+    padding: 0px;
+    margin-left: 16vh;
+    margin-right: 8vh;
+    width: 300px;
+    
+}
+
+.Tempero_Maneiro > h3{
+    color: white;
+}
+
+.Tempero_Maneiro > h1{
+    color: rgb(255, 252, 90);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+   
+    text-align: center;
+    
+}
+
+/*endereco 4*/
+
+.end4{
+    display: flex;
+}
+
+.e7{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.e8{
+    margin-top: 0px;
+    margin-left: 18.4vh;
+    margin-right: 9.6vh;
+    margin-bottom: 0px;
+}
+
+.e7 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e8 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+
+/*coluna 5*/
+.col5{
+    display: flex;
+}
+
+.Magestic{
+    border-radius: 10px;
+    background-color: rgb(35, 129, 184);
+    text-align: center;
+    padding: 0px;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    width: 290px;
+}
+
+.Magestic > h3{
+    color: white;
+}
+
+.Magestic > h2{
+    color: rgb(245, 242, 76);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+
+.Coisas_Mineiras{
+    border-radius: 10px;
+    background-color: rgb(248, 218, 47);
+    text-align: center;
+    padding: 0px;
+    margin-left: 16vh;
+    margin-right: 8vh;
+    width: 300px;
+    
+}
+
+.Coisas_Mineiras > h3{
+    color: white;
+}
+
+.Coisas_Mineiras > h1{
+    color: rgb(255, 255, 255);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+    text-align: center;
+    
+}
+
+/*endereco 5*/
+
+.end5{
+    display: flex;
+}
+
+.e9{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.e10{
+    margin-top: 0px;
+    margin-left: 18.4vh;
+    margin-right: 9.6vh;
+    margin-bottom: 0px;
+}
+
+.e9 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e10 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+/*coluna 6*/
+.col6{
+    display: flex;
+}
+
+.Lanches_Floridas{
+    border-radius: 10px;
+    background-color: rgb(228, 59, 191);
+    text-align: center;
+    padding: 0px;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    width: 290px;
+}
+
+.Lanches_Floridas > h3{
+    color: white;
+}
+
+.Lanches_Floridas > h1{
+    color: rgb(245, 242, 76);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+
+.Bom_Grill{
+    border-radius: 10px;
+    background-color: rgb(67, 158, 6);
+    text-align: center;
+    padding: 0px;
+    margin-left: 16vh;
+    margin-right: 8vh;
+    width: 300px;
+    
+}
+
+.Bom_Grill > h3{
+    color: white;
+}
+
+.Bom_Grill > h1{
+    color: rgb(255, 252, 90);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+   
+    text-align: center;
+    
+}
+
+/*endereco 6*/
+
+.end6{
+    display: flex;
+}
+
+.e11{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.e12{
+    margin-top: 0px;
+    margin-left: 24vh;
+    margin-right: 9.6vh;
+    margin-bottom: 0px;
+}
+
+.e11 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e12 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+/*coluna 7*/
+.col7{
+    display: flex;
+}
+
+.Street_Point{
+    border-radius: 10px;
+    background-color: rgb(226, 223, 62);
+    text-align: center;
+    padding: 0px;
+    margin-left: 8vh;
+    margin-right: 16vh;
+    width: 290px;
+}
+
+.Street_Point > h3{
+    color: white;
+}
+
+.Street_Point > h1{
+    color: rgb(255, 255, 255);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+}
+
+.Aqui_no_Bistro{
+    border-radius: 10px;
+    background-color: rgb(184, 102, 35);
+    text-align: center;
+    padding: 0px;
+    margin-left: 16vh;
+    margin-right: 8vh;
+    width: 48vh;
+    
+}
+
+.Aqui_no_Bistro > h3{
+    color: white;
+}
+
+.Aqui_no_Bistro > h1{
+    color: rgb(255, 252, 90);
+    font-style: arial;
+    text-shadow: 1px 2px 0px black;
+    
+    text-align: center;
+    
+}
+
+/*endereco 7*/
+
+.end7{
+    display: flex;
+}
+
+.e13{
+    margin-top: 0px;
+    margin-left: 11.2vh;
+    margin-right: 18.4vh;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.e14{
+    margin-top: 0px;
+    margin-left: 115px;
+    margin-right: 60px;
+    margin-bottom: 0px;
+}
+
+.e13 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+}
+
+.e14 > p{
+    color: rgb(88, 88, 88);
+    margin: 0px;
+  }
